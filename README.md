@@ -1,5 +1,7 @@
 # High CPU causado pelo método copyRowsAsNeeded do driver do Oracle
-Este repositório foi utilizado para a escrita do artigo sobre alto uso de CPU no método copyRowsAsNeeded do Driver do Oracle
+Este repositório foi utilizado para a escrita do artigo sobre alto uso de CPU no método copyRowsAsNeeded do Driver do Oracle.
+
+O artigo pode ser encontrado na seguinte URL: https://www.fnbrandao.com.br/blog/2021/10/high-cpu-causado-pelo-metodo-copyrowsasneeded-do-driver-do-oracle/
 
 ## Requisitos
 Rodar um Oracle com o seguinte comando:
